@@ -175,7 +175,7 @@ public class FunctionLibrary {
 		System.out.println(c);
 	}
 	public static void mul() {
-		int a=87,b=9,c;
+		int a=87645,b=9646,c;
 		c= a+b;
 		System.out.println(c);
 	}
